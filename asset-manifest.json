@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hunt3r1596/flood-monitoring-react/static/css/main.4cbc1ef8.css",
+    "main.js": "/hunt3r1596/flood-monitoring-react/static/js/main.031412b3.js",
+    "static/js/787.235e07c7.chunk.js": "/hunt3r1596/flood-monitoring-react/static/js/787.235e07c7.chunk.js",
+    "index.html": "/hunt3r1596/flood-monitoring-react/index.html",
+    "main.4cbc1ef8.css.map": "/hunt3r1596/flood-monitoring-react/static/css/main.4cbc1ef8.css.map",
+    "main.031412b3.js.map": "/hunt3r1596/flood-monitoring-react/static/js/main.031412b3.js.map",
+    "787.235e07c7.chunk.js.map": "/hunt3r1596/flood-monitoring-react/static/js/787.235e07c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cbc1ef8.css",
+    "static/js/main.031412b3.js"
+  ]
+}
